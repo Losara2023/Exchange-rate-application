@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  background-image: url(img/exchange.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center ;
+}
